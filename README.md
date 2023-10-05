@@ -30,14 +30,23 @@ WHEN I refresh the page
 THEN the saved events persist
 ```
 
+## MockUp
+![Scheduler](Scheduler-1.PNG)
+
 ## Review
+
 
 You are required to submit the following for review:
 
 * The URL of the deployed application
 
+    https://kawam001.github.io/Scheduler/
+
+
 * The URL of the GitHub repository, with a unique name and a README describing the project
 
-- - -
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+    https://github.com/kawam001/Scheduler
+
+
+
 
